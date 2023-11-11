@@ -1,5 +1,22 @@
 # Web-3-Music-Player-on-Blockchain
 
+This project is a web 3.0 music player that utilizes blockchain technology for decentralized music storage and streaming. It allows users to upload, store, and play music files securely and transparently.
+
+## Snapshot
+
+![Screenshot 1](src/assets/s1.png)
+
+
+## Research Paper Publication
+
+- The research paper titled "Web-3.0 Music Player on Blockchain" has been published in the prestigious IEEE conference.
+- The paper can be accessed and downloaded from [here](https://www.researchgate.net/publication/370178652_Web-3_Music_Player_on_Blockchain).
+
+## Conference Presentation
+
+- The project was also presented at a renowned conference where it received recognition for its innovative approach and contribution to the field.
+- The presentation showcased the key features and technical aspects of the Web-3.0 Music Player on Blockchain.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
@@ -41,6 +58,7 @@ $ npx hardhat node
 
 ### 7. Launch Frontend
 `$ npm run start`
+
 
 License
 ----
